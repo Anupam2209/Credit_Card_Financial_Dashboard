@@ -18,7 +18,7 @@
 - [Contact](#contact)
 
 ## Overview
-The Credit Card Financial Dashboard is a Power BI project designed to provide insightful visualizations and analysis of credit card transactions. The dashboard helps users track spending patterns, monitor outstanding balances, and analyze financial trends over time.
+The Credit Card Financial Dashboard is a Power BI project designed to provide insightful visualizations and analysis of credit card transactions. The dashboard tracks spending patterns, and analyze financial trends over time.
 
 ## Features
 - **Spending Overview:** Visual breakdown of spending categories.
