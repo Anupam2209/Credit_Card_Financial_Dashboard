@@ -1,10 +1,7 @@
-Sure! I'll update the README to reflect the analysis of weekly and total revenue without mentioning budget comparisons.
-
----
 
 # Credit Card Financial Dashboard
 
-![Dashboard Screenshot](Screenshot 2024-05-19 050514.png)
+![Dashboard Screenshot](SS.png)
 
 ## Table of Contents
 - [Overview](#overview)
