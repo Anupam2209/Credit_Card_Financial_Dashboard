@@ -4,7 +4,7 @@ Sure! I'll update the README to reflect the analysis of weekly and total revenue
 
 # Credit Card Financial Dashboard
 
-![Dashboard Screenshot](path_to_screenshot.png)
+![Dashboard Screenshot](Screenshot 2024-05-19 050514.png)
 
 ## Table of Contents
 - [Overview](#overview)
